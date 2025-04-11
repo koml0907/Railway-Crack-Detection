@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "967453187698",
+    "firebase_url": "https://crack-railway-default-rtdb.firebaseio.com",
+    "project_id": "crack-railway",
+    "storage_bucket": "crack-railway.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967453187698:android:31fc2ad4eb796f4ff6eceb",
+        "android_client_info": {
+          "package_name": "com.example.mapcracks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV3UbVE_oNwnBBDQ0cqNxE0m9fK2RoPrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

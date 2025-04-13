@@ -8,7 +8,7 @@
   // Your web app's Firebase configuration
   // For Firebase JS SDK v7.20.0 and later, measurementId is optional
   const firebaseConfig = {
-    apiKey: "AIzaSyDiVVCSX3489SP50NCbU6kSbyEJHOMR4fg",
+    apiKey: "API_KEY",
     authDomain: "crack-railway.firebaseapp.com",
     databaseURL: "https://crack-railway-default-rtdb.firebaseio.com",
     projectId: "crack-railway",
